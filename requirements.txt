@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+scikit-learn==1.7.1
+xgboost
+lightgbm
+joblib
+numpy
+pandas
+torch
+pytorch_tabular[extra]
+streamlit
