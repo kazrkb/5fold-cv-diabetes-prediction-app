@@ -1,3 +1,12 @@
+---
+title: Diabetes Prediction
+emoji: 🩺
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # Type-2 Diabetes Prediction App
 
 A Streamlit web application utilizing 6 trained machine learning models to predict the risk of Type-2 Diabetes Mellitus based on clinical input parameters.
